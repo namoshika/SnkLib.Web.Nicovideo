@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicovideoLibrary", "NicovideoLibrary\NicovideoLibrary.csproj", "{089BA1F3-BB33-45B6-8A78-874FC531915A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicovideoLibrarySample", "NicovideoLibrarySample\NicovideoLibrarySample.csproj", "{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{089BA1F3-BB33-45B6-8A78-874FC531915A}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Debug|x86.ActiveCfg = Debug|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Debug|x86.Build.0 = Debug|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Release|Any CPU.ActiveCfg = Release|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Release|x86.ActiveCfg = Release|x86
+		{BBE5C534-8A38-4F71-8846-CA37FEE70DC0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
